@@ -1,7 +1,7 @@
 {
     "name": "guimas.brackets-htmlentities",
     "title": "Html Entities Encoder",
-    "description": "",
+    "description": "An extension for encoding special chars for HTML pages.",
     "homepage": "https://github.com/guimas/brackets-htmlentities",
     "version": "1.0.0",
     "author": "Guilherme Bradasch (http://github.com/guimas)",
