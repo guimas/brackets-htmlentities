@@ -1,0 +1,12 @@
+{
+    "name": "guimas.brackets-htmlentities",
+    "title": "Html Entities Encoder",
+    "description": "",
+    "homepage": "https://github.com/guimas/brackets-htmlentities",
+    "version": "1.0.0",
+    "author": "Guilherme Bradasch (http://github.com/guimas)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.40.0"
+    }
+}
